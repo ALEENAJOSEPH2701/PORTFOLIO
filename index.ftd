@@ -12,7 +12,6 @@ cta-text-1: ***LEARNING NEW THINGS***
 cta-text-2: **TEACHER| Designer | Developer|CODER**
 pic: $assets.files.images.aleena.jpg
 linkedin: $assets.files.images.linkedin.png
-twit: $assets.files.images.twitter.png
 insta: $assets.files.images.insta.png
 github: $assets.files.images.github.png
 
