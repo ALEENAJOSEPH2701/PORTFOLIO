@@ -248,7 +248,7 @@ align-content: center
 
 -- ftd.text: $hero-mobile.title
 color: #003399
-role: $inherited.types.heading-hero
+role: $inherited.types.heading-large
 padding-vertical.px: 12
 height: fill-container
 
