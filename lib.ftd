@@ -259,7 +259,7 @@ padding-vertical.px: 12
 
 -- ftd.text: $hero-mobile.cta-text-2
 color: #0000cf
-role: $inherited.types.heading-small 
+role: $inherited.types.label-large
 padding-vertical.px: 12
 
 -- ftd.row:
