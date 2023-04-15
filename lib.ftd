@@ -258,7 +258,7 @@ role: $inherited.types.heading-small
 padding-vertical.px: 12
 
 -- ftd.text: $hero-mobile.cta-text-2
-color: #cf0000
+color: #0000cf
 role: $inherited.types.heading-small 
 padding-vertical.px: 12
 
