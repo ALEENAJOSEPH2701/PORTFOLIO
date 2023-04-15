@@ -356,7 +356,7 @@ color: #cf0000
 role: $inherited.types.heading-small 
 padding-vertical.px: 12
 
--- ftd.row:
+-- ftd.column:
 align-self: center
 align-content: center
 spacing.fixed.px: 30
@@ -381,11 +381,12 @@ height.fixed.px: 32
 src: $hero-desktop.github
 link: https://github.com/Sarvom
 
--- end: ftd.row
+-- end: ftd.column
 
 -- end: ftd.column
 
 -- ftd.column:
+width.fixed.px: 200
 
 -- ftd.image: 
 align-self: center
